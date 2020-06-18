@@ -129,9 +129,9 @@ console.log(babyOne.play());
 
   In your own words explain the four principles for the "this" keyword below:
   1. Window/ Global Object Binding is when the value of the "this" keyword is the window in the console. 
-  2. Implicit Binding is when whatever is to the left of the dot is what "this" is.
+  2. Implicit Binding is when you look to the left of the dot to see what the "this" keyword is.
   3. New Binding makes the "this" keyword apply to the new object that is created. 
-  4. Explicit Binding makes "this" explicitly defined.
+  4. Explicit Binding is when you specify what the "this" keyword is refrencing.
 */
 
 
